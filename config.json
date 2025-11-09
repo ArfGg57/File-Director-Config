@@ -1,2 +1,105 @@
 {
+    "images":
+    {
+        "title":
+        {
+            "image" : "menu:logo.png",
+            "posX" : -159,
+            "posY" : 24,
+            "width" : 300,
+            "height" : 60,
+            "alignment" : "top_center"
+        }
+    },
+    
+    "buttons":
+    {
+        "multiplayer":
+        {
+            "text" : "Play",
+            "normalTextColor" : "65280",
+            "hoverTextColor" : "65280",
+            "posX" : -58,
+            "posY" : 40,
+            "width" : 106,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        
+        "singleplayer":
+        {
+            "text" : "Private",
+            "normalTextColor" : "12297250",
+            "hoverTextColor" : "12297250",
+            "posX" : -50,
+            "posY" : 66,
+            "width" : 90,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "Options":
+        {
+            "text" : "Settings",
+            "normalTextColor" : "12297850",
+            "hoverTextColor" : "12297850",
+            "posX" : -50,
+            "posY" : 92,
+            "width" : 90,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+
+        "quit":
+        {
+            "text" : "Quit",
+            "normalTextColor" : "16724794",
+            "hoverTextColor" : "16724794",
+            "posX" : -50,
+            "posY" : 118,
+            "width" : 90,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        }
+    },
+    
+    "texts":
+    {
+        "text1":
+        {
+            "text" : "Created for the Homestead Clarinets by Adam Funk",
+            "posX" : -385,
+            "posY" : -10,
+            "color" : 1765247,
+            "alignment" : "bottom_right"
+        }
+    },
+
+
+    "other":
+    {
+        "panorama":
+        {
+            "images" : "menu:background.png",
+            "animate" : true,
+            "animationSpeed" : 1,
+            "blur" : false,
+            "gradient" : false
+        }
+    }
 }
