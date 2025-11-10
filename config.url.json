@@ -1,9 +1,7 @@
 {
     "url": "https://raw.githubusercontent.com/ArfGg57/File-Director-Config/refs/heads/main/config_files/mainmenu.json",
-    "folder": "config/CustomMainMenu"
+    "folder": "config/custommainmenu",
     "installationPolicy": {
-       "selectedByDefault": true,
-       "name": "My Mod",
-       "description": "My Mod is an optional mod in this modpack to demonstrate mod director functionality"
+        "downloadAlways": true
     }
 }
