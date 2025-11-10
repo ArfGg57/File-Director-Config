@@ -1,4 +1,9 @@
 {
     "url": "https://raw.githubusercontent.com/ArfGg57/File-Director-Config/refs/heads/main/config_files/mainmenu.json",
     "folder": "config\\custommainmenu"
+    "installationPolicy": {
+       "selectedByDefault": true,
+       "name": "Main Menu Config",
+       "description": "The is an update for the main menu config file"
+    }
 }
