@@ -1,5 +1,4 @@
 {
-	"folder": "config/CustomMainMenu",
-	"fileName": "mainmenu.json",
-	"delete": true
+	"folder": "mods",
+	"fileName": "soundreloader-1.1-1.7.10"
 }
