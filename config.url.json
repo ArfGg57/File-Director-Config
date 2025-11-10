@@ -3,6 +3,6 @@
     "folder": "config\\custommainmenu",
     "installationPolicy":
 	{
-		"supersede": "mainmenu.json"
+		"downloadAlways": true
 	}
 }
