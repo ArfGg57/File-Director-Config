@@ -1,2 +1,5 @@
 {
+	"folder": "config\\CustomMainMenu",
+	"fileName": "mainmenu.json",
+	"delete": true
 }
