@@ -1,4 +1,8 @@
 {
     "url": "https://raw.githubusercontent.com/ArfGg57/File-Director-Config/refs/heads/main/config_files/mainmenu.json",
-    "folder": "config\\custommainmenu"
+    "folder": "config\\custommainmenu",
+    "fileName": "mainmenu.json",
+    "installationPolicy": {
+        "supersede": "mainmenu.json"
+    }
 }
